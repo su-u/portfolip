@@ -1,7 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="" />
+    <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Background.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/GlobalStyle.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Hamburger.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Language.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Meta.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ServiceWorker.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/aWjzGVj5fH_TZZk4YR1I2/pages/MDMT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/aWjzGVj5fH_TZZk4YR1I2/pages/MDMT/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/aWjzGVj5fH_TZZk4YR1I2/pages/MDMT/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/aWjzGVj5fH_TZZk4YR1I2/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/aWjzGVj5fH_TZZk4YR1I2/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/aWjzGVj5fH_TZZk4YR1I2/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/chunks/commons.6a90072142fbaf95a784.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/runtime/main-38f26d1ce3769fb551b9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/_next/static/runtime/webpack-3df6523e264ff2ac6548.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/favicon-180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/favicon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/favicon-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/favicon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/hashtag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/hashtag.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/i_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/logo_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/mdmt-live-hello.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/mdmt-live-title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/images/ogimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/sw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/context.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hooks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mdx-loader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/sanitize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/copy-preload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/generate-manifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/workbox-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon-180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hashtag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/hashtag.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/i_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logo_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/mdmt-live-hello.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/mdmt-live-title.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ogimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bulma.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bulma.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bulma.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/cosutom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/cosutom.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bulma.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/cosutom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/cosutom.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/cosutom.scss" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +136,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
-    <property name="ts.external.directory.path" value="D:\Documents\GitHub\portfolip\node_modules\typescript\lib" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -81,10 +174,7 @@
       <updated>1564490885531</updated>
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
-      <workItem from="1565065792257" duration="3196000" />
-      <workItem from="1565072153353" duration="1884000" />
-      <workItem from="1565074071069" duration="1562000" />
-      <workItem from="1565084494035" duration="761000" />
+      <workItem from="1565065792257" duration="769000" />
     </task>
     <servers />
   </component>
@@ -101,16 +191,6 @@
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-  </component>
-  <component name="regexState">
-    <option name="map">
-      <map>
-        <entry key="flags" value="0" />
-        <entry key="mode" value="0" />
-        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
-        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
       </map>
     </option>
   </component>
