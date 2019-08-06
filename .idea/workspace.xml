@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customize/config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customize/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customize/theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/features/i18n.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/features/mdx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/features/pwa.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/getting-started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/how-it-works.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/customize/config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/customize/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/customize/theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/features/i18n.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/features/mdx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/features/pwa.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/getting-started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/how-it-works.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ja/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +48,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="ts.external.directory.path" value="C:\Users\SAVIOR\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\192.5728.98\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="D:\Documents\GitHub\portfolip\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -108,7 +84,7 @@
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="3196000" />
-      <workItem from="1565072153353" duration="1689000" />
+      <workItem from="1565072153353" duration="1884000" />
     </task>
     <servers />
   </component>
