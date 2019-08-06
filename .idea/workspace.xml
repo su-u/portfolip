@@ -2,7 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/chunks/commons.5fea9a0ae6a31b9c32e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/customize/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/customize/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/faq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/features/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/features/mdx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/features/pwa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/getting-started.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/how-it-works.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/customize/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/customize/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/faq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/features/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/features/mdx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/features/pwa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/getting-started.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/MDMT/ja/how-it-works.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/customize/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/customize/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/faq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/features/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/features/mdx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/features/pwa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/getting-started.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/how-it-works.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/customize/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/customize/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/faq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/features/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/features/mdx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/features/pwa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/getting-started.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/kt7vJaTsk5rxJ9lg5ICxZ/pages/ja/how-it-works.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_next/static/runtime/main-84dbb8a56cf7d0b55d28.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/customize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/customize/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/customize/theme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/i18n.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/mdx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/features/pwa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/getting-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/how-it-works.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/customize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/customize/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/customize/theme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/features/i18n.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/features/mdx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/features/pwa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/getting-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ja/how-it-works.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +119,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="ts.external.directory.path" value="D:\Documents\GitHub\portfolip\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -85,6 +157,8 @@
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="3196000" />
       <workItem from="1565072153353" duration="1884000" />
+      <workItem from="1565074071069" duration="1562000" />
+      <workItem from="1565084494035" duration="761000" />
     </task>
     <servers />
   </component>
@@ -101,6 +175,16 @@
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
       </map>
     </option>
   </component>
