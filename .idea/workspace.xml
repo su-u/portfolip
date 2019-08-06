@@ -41,10 +41,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="D:\Documents\GitHub\portfolip\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +81,10 @@
       <updated>1564490885531</updated>
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
-      <workItem from="1565065792257" duration="769000" />
+      <workItem from="1565065792257" duration="3196000" />
+      <workItem from="1565072153353" duration="1884000" />
+      <workItem from="1565074071069" duration="1562000" />
+      <workItem from="1565084494035" duration="761000" />
     </task>
     <servers />
   </component>
@@ -96,6 +101,16 @@
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
       </map>
     </option>
   </component>
