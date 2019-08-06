@@ -43,10 +43,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Users\SAVIOR\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\192.5728.98\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,6 +84,7 @@
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="3196000" />
+      <workItem from="1565072153353" duration="145000" />
     </task>
     <servers />
   </component>
