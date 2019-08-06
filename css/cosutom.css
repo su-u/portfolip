@@ -1,6 +1,10 @@
-.intro {
-  padding: 4rem 0;
-  text-align: center;
+.title {
+  padding: 2rem 0;
+}
+
+.is-256x256 {
+  height: 256px;
+  width: 256px;
 }
 
 /*# sourceMappingURL=cosutom.css.map */
