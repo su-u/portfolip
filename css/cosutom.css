@@ -1,6 +1,17 @@
-.intro {
-  padding: 4rem 0;
-  text-align: center;
+h1.title {
+  padding: 2rem 0;
+}
+
+.profile {
+  padding-left: 2rem;
+  padding-top: 3rem;
+}
+.profile p {
+  margin: 1rem 0;
+}
+
+.skill {
+  align-items: center;
 }
 
 /*# sourceMappingURL=cosutom.css.map */
