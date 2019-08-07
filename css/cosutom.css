@@ -1,10 +1,17 @@
-.title {
+h1.title {
   padding: 2rem 0;
 }
 
-.is-256x256 {
-  height: 256px;
-  width: 256px;
+.profile {
+  padding-left: 2rem;
+  padding-top: 3rem;
+}
+.profile p {
+  margin: 1rem 0;
+}
+
+.skill {
+  align-items: center;
 }
 
 /*# sourceMappingURL=cosutom.css.map */
