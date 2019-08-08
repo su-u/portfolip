@@ -11,33 +11,33 @@
 </head>
 
 <body>
-    <section class="hero is-primary is-medium">
-        <!-- Hero head: will stick at the top -->
-        <div class="hero-head">
-            <nav class="navbar">
-                <div class="container">
-                    <div class="navbar-brand">
-                        <a class="navbar-item">
-                            <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
-                        </a>
-                        <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+<section class="hero is-primary is-medium">
+    <!-- Hero head: will stick at the top -->
+    <div class="hero-head">
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-brand">
+                    <a class="navbar-item">
+                        <img src="https://bulma.io/images/bulma-type-white.png" alt="Logo">
+                    </a>
+                    <span class="navbar-burger burger" data-target="navbarMenuHeroA">
                             <span></span>
                             <span></span>
                             <span></span>
                         </span>
-                    </div>
-                    <div id="navbarMenuHeroA" class="navbar-menu">
-                        <div class="navbar-end">
-                            <a class="navbar-item is-active">
-                                Home
-                            </a>
-                            <a class="navbar-item">
-                                more
-                            </a>
-                            <a class="navbar-item">
-                                Documentation
-                            </a>
-                            <span class="navbar-item">
+                </div>
+                <div id="navbarMenuHeroA" class="navbar-menu">
+                    <div class="navbar-end">
+                        <a class="navbar-item is-active">
+                            Home
+                        </a>
+                        <a class="navbar-item">
+                            more
+                        </a>
+                        <a class="navbar-item">
+                            Documentation
+                        </a>
+                        <span class="navbar-item">
                                 <a class="button is-primary is-inverted">
                                     <span class="icon">
                                         <i class="fab fa-github"></i>
@@ -45,113 +45,182 @@
                                     <span>Download</span>
                                 </a>
                             </span>
-                        </div>
                     </div>
                 </div>
-            </nav>
-        </div>
+            </div>
+        </nav>
+    </div>
 
-        <!-- Hero content: will be in the middle -->
-        <div class="hero-body">
-            <div class="container has-text-centered">
-                <h1 class="title">
-                    すーの活動記録
-                </h1>
-                <h2 class="subtitle">
-                    Subtitle
-                </h2>
+    <!-- Hero content: will be in the middle -->
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <h1 class="title">
+                すーの活動記録
+            </h1>
+            <h2 class="subtitle">
+                Subtitle
+            </h2>
+        </div>
+    </div>
+
+</section>
+<section class="container">
+    <h1 class="title has-text-centered">基本情報</h1>
+    <div class="tile is-ancestor">
+        <div class="tile is-4 is-vertical is-parent">
+            <div class="tile is-child">
+                <figure class="image">
+                    <img src="img/su.jpg">
+                </figure>
             </div>
         </div>
+        <div class="tile is-parent">
+            <div class="tile is-child profile">
+                <p class="is-size-4">趣味：</p>
+                <p class="is-size-4">趣味：</p>
+                <p class="is-size-4">趣味：</p>
+            </div>
+        </div>
+    </div>
+    <h1 class="title has-text-centered">スキル</h1>
+    <h2 class="title">言語</h2>
 
-    </section>
-    <section class="container">
-        <div class="">
-            <h1 class="title has-text-centered">基本情報</h1>
-            <div class="tile is-ancestor">
-                <div class="tile is-4 is-vertical is-parent">
-                    <div class="tile is-child box">
-                        <figure class="image">
-                            <img src="img/su.jpg">
+
+    <div class="tile is-ancestor">
+        <div class="tile is-6-desktop is-vertical is-parent">
+            <div class="tile is-child box">
+                <div class="columns is-mobile skill-content">
+                    <div class="column is-4">
+                        <figure class="image is-64x64">
+                            <img src="img/icon/cs-icon.png">
                         </figure>
                     </div>
-                </div>
-                <div class="tile is-parent">
-                    <div class="tile is-child box profile">
-                        <p class="has-text-weight-bold is-size-3">名前: すー</p>
-                        <p class="has-text-weight-bold is-size-3">名前: すー</p>
-                        <p class="has-text-weight-bold is-size-3">名前: すー</p>
+                    <div class="column is-8">
+                        <p class="has-text-weight-bold is-size-3">C#</p>
                     </div>
                 </div>
+                <progress class="progress is-success" value="60" max="100">60%</progress>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
             </div>
         </div>
-        <div>
-            <h1 class="title has-text-centered">スキル</h1>
-            <h2 class="title">言語</h2>
-            <div class="columns is-variable is-8 is-multiline">
-                <div class="column is-6-desktop">
-                    <div class="columns is-mobile skill">
-                        <div class="column is-3">
-                            <figure class="image is-64x64">
-                                <img src="img/cs-icon.png">
-                            </figure>
-                        </div>
-                        <div class="column is-9">
-                            <p class="has-text-weight-bold is-size-3">C#</p>
-                        </div>
+        <div class="tile is-6-desktop is-vertical is-parent">
+            <div class="tile is-child box">
+                <div class="columns is-mobile skill-content">
+                    <div class="column is-4">
+                        <figure class="image is-64x64">
+                            <img src="img/icon/cs-icon.png">
+                        </figure>
                     </div>
-                    <progress class="progress is-success" value="60" max="100">60%</progress>
-                    aaa
-                </div>
-                <div class="column is-6-desktop">
-                    <div class="columns is-mobile skill">
-                        <div class="column is-3">
-                            <figure class="image is-64x64">
-                                <img src="img/cs-icon.png">
-                            </figure>
-                        </div>
-                        <div class="column is-9">
-                            <p class="has-text-weight-bold is-size-3">C#</p>
-                        </div>
+                    <div class="column is-8">
+                        <p class="has-text-weight-bold is-size-3">C#</p>
                     </div>
-                    <progress class="progress is-success" value="60" max="100">60%</progress>
                 </div>
-                <div class="column is-6-desktop">
-                    <div class="columns is-mobile skill">
-                        <div class="column is-3">
-                            <figure class="image is-64x64">
-                                <img src="img/cs-icon.png">
-                            </figure>
-                        </div>
-                        <div class="column is-9">
-                            <p class="has-text-weight-bold is-size-3">C#</p>
-                        </div>
-                    </div>
-                    <progress class="progress is-success" value="60" max="100">60%</progress>
-                </div>
-                <div class="column is-6-desktop ">
-                    <div class="columns is-mobile skill">
-                        <div class="column is-3">
-                            <figure class="image is-64x64">
-                                <img src="img/cs-icon.png">
-                            </figure>
-                        </div>
-                        <div class="column is-9">
-                            <p class="has-text-weight-bold is-size-3">C#</p>
-                        </div>
-                    </div>
-                    <progress class="progress is-success" value="60" max="100">60%</progress>
-                </div>
+                <progress class="progress is-success" value="60" max="100">60%</progress>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+                <p></p>
+                <p></p>
             </div>
+        </div>
+    </div>
 
+    <div class="tile is-ancestor">
+        <div class="tile is-6-desktop is-vertical is-parent">
+            <div class="tile is-child box">
+                <div class="columns is-mobile skill-content">
+                    <div class="column is-4">
+                        <figure class="image is-64x64">
+                            <img src="img/icon/cs-icon.png">
+                        </figure>
+                    </div>
+                    <div class="column is-8">
+                        <p class="has-text-weight-bold is-size-3">C#</p>
+                    </div>
+                </div>
+                <progress class="progress is-success" value="60" max="100">60%</progress>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+            </div>
         </div>
-        <div class="has-text-centered">
-            <h1 class="title">活動記録</h1>
+        <div class="tile is-6-desktop is-vertical is-parent">
+            <div class="tile is-child box">
+                <div class="columns is-mobile skill-content">
+                    <div class="column is-4">
+                        <figure class="image is-64x64">
+                            <img src="img/icon/cs-icon.png">
+                        </figure>
+                    </div>
+                    <div class="column is-8">
+                        <p class="has-text-weight-bold is-size-3">C#</p>
+                    </div>
+                </div>
+                <progress class="progress is-success" value="60" max="100">60%</progress>
+                <p>主にUnity、windowsアプリケーションの開発に利用しています。</p>
+                <p></p>
+                <p></p>
+            </div>
         </div>
-        <div class="has-text-centered">
-            <h1 class="title">連絡先</h1>
+    </div>
+
+
+    <div class="has-text-centered">
+        <h1 class="title">活動記録</h1>
+        <div class="is-12-desktop card">
+            <ul class="timeline">
+                <li>
+                    <header>2019/03/05</header>
+                    <ul>
+                        <li>update information</li>
+                        <li>update information</li>
+                    </ul>
+                </li>
+                <li>
+                    <header>2019/03/04</header>
+                    <ul>
+                        <li>update information</li>
+                        <li>update information</li>
+                        <li>update information</li>
+                    </ul>
+                </li>
+                <li class="pickup">
+                    <header>2019/03/03</header>
+                    <ul>
+                        <li>Pickup information</li>
+                    </ul>
+                </li>
+                <li>
+                    <header>2019/03/02</header>
+                    <ul>
+                        <li>update information</li>
+                        <li>update information</li>
+                        <li>update information</li>
+                    </ul>
+                </li>
+                <li>
+                    <header>2019/03/01</header>
+                    <ul>
+                        <li>update information</li>
+                    </ul>
+                </li>
+                <li class="pickup">
+                    <header>2019/02/28</header>
+                    <ul>
+                        <li>Pickup information</li>
+                    </ul>
+                </li>
+                <li class="start">
+                    <header>2019</header>
+                </li>
+            </ul>
         </div>
-    </section>
-    <script src="js/bulma.js"></script>
+    </div>
+    <div class="has-text-centered">
+        <h1 class="title">連絡先</h1>
+    </div>
+</section>
+<script src="js/bulma.js"></script>
 </body>
 
 </html>
