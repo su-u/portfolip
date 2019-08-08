@@ -14,6 +14,9 @@
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../portfolip\exportToHTML" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="portfolip" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -50,12 +53,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Documents\GitHub\portfolip\img\icon" />
       <recent name="D:\Documents\GitHub\portfolip\img" />
+      <recent name="D:\Documents\GitHub\portfolip\img\icon" />
       <recent name="D:\Documents\GitHub\portfolip\css" />
       <recent name="D:\Documents\GitHub\portfolip\scss" />
       <recent name="D:\Documents\GitHub\portfolip" />
@@ -89,7 +92,7 @@
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="769000" />
-      <workItem from="1565178043778" duration="19614000" />
+      <workItem from="1565178043778" duration="22567000" />
     </task>
     <servers />
   </component>
