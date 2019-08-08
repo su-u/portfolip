@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/cosutom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/cosutom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/cosutom.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/cosutom.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/cosutom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/cosutom.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +91,7 @@
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="769000" />
-      <workItem from="1565178043778" duration="2064000" />
+      <workItem from="1565178043778" duration="9354000" />
     </task>
     <servers />
   </component>

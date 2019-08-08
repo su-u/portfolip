@@ -2,6 +2,12 @@ h1.title {
   padding: 2rem 0;
 }
 
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 0.75rem;
+  }
+}
+
 .profile {
   padding-left: 2rem;
   padding-top: 3rem;
@@ -11,7 +17,76 @@ h1.title {
 }
 
 .skill {
+  margin: 0.75rem;
+}
+
+.skill-content {
   align-items: center;
+}
+
+.content {
+  max-width: 1000px;
+  max-height: calc(100vh - 80px);
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+  overflow: auto;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.timeline {
+  font-size: 1rem;
+  padding: 0;
+}
+.timeline li {
+  list-style: none;
+}
+.timeline > li {
+  position: relative;
+  margin: 0 0 0 5em;
+  padding: 0 0 1em 2em;
+}
+.timeline > li:before, .timeline > li:after {
+  content: "";
+  display: block;
+  position: absolute;
+}
+.timeline > li:before {
+  top: 0.1rem;
+  left: 0;
+  width: 1px;
+  height: 100%;
+  background: #ccc;
+}
+.timeline > li:after {
+  top: 0.1rem;
+  left: -5px;
+  width: 11px;
+  height: 11px;
+  background: #ccc;
+  border-radius: 100%;
+}
+.timeline > li:not(:first-child) {
+  padding-top: 1rem;
+}
+.timeline > li:not(:first-child):before {
+  top: 0;
+}
+.timeline > li:not(:first-child):after {
+  top: 1.1rem;
+}
+.timeline ul {
+  padding: 0;
+}
+.timeline ul li {
+  color: #999;
+  margin-bottom: 0.5rem;
+}
+.timeline header {
+  line-height: 1;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
 }
 
 /*# sourceMappingURL=cosutom.css.map */
