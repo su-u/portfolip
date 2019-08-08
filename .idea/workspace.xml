@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -92,7 +91,7 @@
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="769000" />
-      <workItem from="1565178043778" duration="22567000" />
+      <workItem from="1565178043778" duration="23190000" />
     </task>
     <servers />
   </component>
