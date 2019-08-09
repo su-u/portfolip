@@ -18,26 +18,65 @@ h1 {
     }
 }
 
+.mark {
+    color: gray;
+}
+
+.box {
+    padding: 0.75rem;
+}
+
+.columns:not(:last-child) {
+    margin-bottom: 0.25rem;
+}
+
 .container{
+    margin-top: 4rem;
     @include mq(mobile) {
         padding: 0.75rem;
     }
+}
+.navbar > .container {
+    margin-top: 0;
 }
 
 .profile {
     padding-left: 2rem;
     padding-top: 3rem;
-
     & p{
         margin: 1rem 0;
     }
 }
-.skill{
-    margin: 0.75rem;
+
+
+.introduction {
+    p {
+        margin-top: 0.5rem;
+    }
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.is-right {
+
+}
+
+.skill {
+    h2 {
+        margin-top: 3rem;
+    }
 }
 
 .skill-content {
     align-items: center;
+}
+
+.created {
+    p {
+        margin-top: 0.5rem;
+    }
 }
 
 .content {
@@ -50,16 +89,32 @@ h1 {
     box-shadow: 0 10px 20px rgba(#000,.2);
     border-radius: 8px;
 }
+
+$point-size: 15px;
+
 .timeline {
     font-size: 1rem;
-    padding: 0;
+    padding: 3rem;
+    width: 50%;
+    margin: 0 auto;
+
+    @include mq(mobile){
+        padding: 0.75rem;
+        width: 100%;
+    }
+
     li {
         list-style: none;
     }
     > li {
         position: relative;
-        margin: 0 0 0 5em;
-        padding: 0 0 1em 2em;
+        margin: 0 0 0 5rem;
+        padding: 0 0 1em 2rem;
+
+        @include mq(mobile){
+            margin: 0 0 0 1rem;
+        }
+
         &:before, &:after {
             content: "";
             display: block;
@@ -74,9 +129,9 @@ h1 {
         }
         &:after {
             top: .1rem;
-            left: -5px;
-            width: 11px;
-            height: 11px;
+            left: ($point-size - 1 ) / 2 * (-1);
+            width: $point-size;
+            height: $point-size;
             background: #ccc;
             border-radius: 100%;
         }
@@ -98,9 +153,18 @@ h1 {
         }
     }
     header {
+        font-size: 1.25rem;
         line-height: 1;
         letter-spacing: 1px;
         margin-bottom: .5rem;
     }
 
+}
+
+.more {
+    text-align: right;
+}
+
+.footer {
+    margin-top: 5rem;
 }

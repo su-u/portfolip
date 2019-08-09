@@ -14,12 +14,15 @@
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../portfolip\exportToHTML" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="portfolip" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Sass File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,17 +53,17 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\portfolip" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\portfolip\img\icon" />
       <recent name="D:\Documents\GitHub\portfolip\img" />
       <recent name="D:\Documents\GitHub\portfolip\css" />
       <recent name="D:\Documents\GitHub\portfolip\scss" />
-      <recent name="D:\Documents\GitHub\portfolip" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\portfolip" />
     </key>
   </component>
@@ -89,7 +92,8 @@
       <workItem from="1564490886883" duration="1824000" />
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="769000" />
-      <workItem from="1565178043778" duration="11976000" />
+      <workItem from="1565178043778" duration="23190000" />
+      <workItem from="1565328142528" duration="16737000" />
     </task>
     <servers />
   </component>
