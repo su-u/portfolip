@@ -32,8 +32,8 @@ h1.title {
   margin: 0 auto;
 }
 
-.skill {
-  margin: 0.75rem;
+.skill h2 {
+  margin-top: 3rem;
 }
 
 .skill-content {
