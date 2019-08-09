@@ -1,19 +1,170 @@
+$breakpoints: (
+        'mobile': 'screen and (max-width: 768px)',
+        'tablet': 'screen and (max-width: 1023px)',
+        'desktop': 'screen and (max-width: 1215px)',
+        'wodescreen': 'screen and (max-width: 1407px)',
+        'fullhd': 'screen and (min-width: 1408px)',
+) !default;
+
+@mixin mq($breakpoint: mobile) {
+    @media #{map-get($breakpoints, $breakpoint)} {
+        @content;
+    }
+}
+
 h1 {
     &.title{
         padding: 2rem 0;
     }
 }
 
+.mark {
+    color: gray;
+}
+
+.box {
+    padding: 0.75rem;
+}
+
+.columns:not(:last-child) {
+    margin-bottom: 0.25rem;
+}
+
+.container{
+    margin-top: 4rem;
+    @include mq(mobile) {
+        padding: 0.75rem;
+    }
+}
+.navbar > .container {
+    margin-top: 0;
+}
+
 .profile {
     padding-left: 2rem;
     padding-top: 3rem;
-
     & p{
         margin: 1rem 0;
     }
 }
 
+
+.introduction {
+    p {
+        margin-top: 0.5rem;
+    }
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.is-right {
+
+}
+
 .skill {
+    h2 {
+        margin-top: 3rem;
+    }
+}
+
+.skill-content {
     align-items: center;
 }
 
+.created {
+    p {
+        margin-top: 0.5rem;
+    }
+}
+
+.content {
+    max-width: 1000px;
+    max-height: calc(100vh - 80px);
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    overflow: auto;
+    box-shadow: 0 10px 20px rgba(#000,.2);
+    border-radius: 8px;
+}
+
+$point-size: 15px;
+
+.timeline {
+    font-size: 1rem;
+    padding: 3rem;
+    width: 50%;
+    margin: 0 auto;
+
+    @include mq(mobile){
+        padding: 0.75rem;
+        width: 100%;
+    }
+
+    li {
+        list-style: none;
+    }
+    > li {
+        position: relative;
+        margin: 0 0 0 5rem;
+        padding: 0 0 1em 2rem;
+
+        @include mq(mobile){
+            margin: 0 0 0 1rem;
+        }
+
+        &:before, &:after {
+            content: "";
+            display: block;
+            position: absolute;
+        }
+        &:before {
+            top: .1rem;
+            left: 0;
+            width: 1px;
+            height: 100%;
+            background: #ccc;
+        }
+        &:after {
+            top: .1rem;
+            left: ($point-size - 1 ) / 2 * (-1);
+            width: $point-size;
+            height: $point-size;
+            background: #ccc;
+            border-radius: 100%;
+        }
+    }
+    > li:not(:first-child) {
+        padding-top: 1rem;
+        &:before {
+            top: 0;
+        }
+        &:after {
+            top: 1.1rem;
+        }
+    }
+    ul {
+        padding: 0;
+        li {
+            color: #999;
+            margin-bottom: .5rem;
+        }
+    }
+    header {
+        font-size: 1.25rem;
+        line-height: 1;
+        letter-spacing: 1px;
+        margin-bottom: .5rem;
+    }
+
+}
+
+.more {
+    text-align: right;
+}
+
+.footer {
+    margin-top: 5rem;
+}
