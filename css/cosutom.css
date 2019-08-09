@@ -14,10 +14,17 @@ h1.title {
   margin-bottom: 0.25rem;
 }
 
+.container {
+  margin-top: 4rem;
+}
 @media screen and (max-width: 768px) {
   .container {
     padding: 0.75rem;
   }
+}
+
+.navbar > .container {
+  margin-top: 0;
 }
 
 .profile {
@@ -117,6 +124,7 @@ h1.title {
   margin-bottom: 0.5rem;
 }
 .timeline header {
+  font-size: 1.25rem;
   line-height: 1;
   letter-spacing: 1px;
   margin-bottom: 0.5rem;

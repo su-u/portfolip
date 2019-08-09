@@ -31,9 +31,13 @@ h1 {
 }
 
 .container{
+    margin-top: 4rem;
     @include mq(mobile) {
         padding: 0.75rem;
     }
+}
+.navbar > .container {
+    margin-top: 0;
 }
 
 .profile {
@@ -139,6 +143,7 @@ $point-size: 15px;
         }
     }
     header {
+        font-size: 1.25rem;
         line-height: 1;
         letter-spacing: 1px;
         margin-bottom: .5rem;
