@@ -18,6 +18,18 @@ h1 {
     }
 }
 
+.mark {
+    color: gray;
+}
+
+.box {
+    padding: 0.75rem;
+}
+
+.columns:not(:last-child) {
+    margin-bottom: 0.25rem;
+}
+
 .container{
     @include mq(mobile) {
         padding: 0.75rem;
