@@ -56,14 +56,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Documents\GitHub\portfolip" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\portfolip\img\icon" />
       <recent name="D:\Documents\GitHub\portfolip\img" />
       <recent name="D:\Documents\GitHub\portfolip\css" />
       <recent name="D:\Documents\GitHub\portfolip\scss" />
+      <recent name="D:\Documents\GitHub\portfolip" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\portfolip" />
     </key>
   </component>
@@ -93,7 +93,8 @@
       <workItem from="1564568375533" duration="14000" />
       <workItem from="1565065792257" duration="769000" />
       <workItem from="1565178043778" duration="23190000" />
-      <workItem from="1565328142528" duration="16737000" />
+      <workItem from="1565328142528" duration="17550000" />
+      <workItem from="1565354310169" duration="997000" />
     </task>
     <servers />
   </component>
