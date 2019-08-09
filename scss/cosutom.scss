@@ -32,12 +32,23 @@ h1 {
         margin: 1rem 0;
     }
 }
+
+.center {
+    margin: 0 auto;
+}
+
 .skill{
     margin: 0.75rem;
 }
 
 .skill-content {
     align-items: center;
+}
+
+.created {
+    p {
+        margin-top: 0.5rem;
+    }
 }
 
 .content {
