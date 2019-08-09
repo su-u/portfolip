@@ -43,14 +43,24 @@ h1 {
 .profile {
     padding-left: 2rem;
     padding-top: 3rem;
-
     & p{
         margin: 1rem 0;
     }
 }
 
+
+.introduction {
+    p {
+        margin-top: 0.5rem;
+    }
+}
+
 .center {
     margin: 0 auto;
+}
+
+.is-right {
+
 }
 
 .skill {
@@ -149,4 +159,12 @@ $point-size: 15px;
         margin-bottom: .5rem;
     }
 
+}
+
+.more {
+    text-align: right;
+}
+
+.footer {
+    margin-top: 5rem;
 }

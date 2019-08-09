@@ -35,6 +35,10 @@ h1.title {
   margin: 1rem 0;
 }
 
+.introduction p {
+  margin-top: 0.5rem;
+}
+
 .center {
   margin: 0 auto;
 }
@@ -128,6 +132,14 @@ h1.title {
   line-height: 1;
   letter-spacing: 1px;
   margin-bottom: 0.5rem;
+}
+
+.more {
+  text-align: right;
+}
+
+.footer {
+  margin-top: 5rem;
 }
 
 /*# sourceMappingURL=cosutom.css.map */
