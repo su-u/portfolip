@@ -40,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../solving2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -96,7 +96,8 @@
       <workItem from="1565328142528" duration="17550000" />
       <workItem from="1565354310169" duration="4732000" />
       <workItem from="1565364335177" duration="886000" />
-      <workItem from="1565407382892" duration="229000" />
+      <workItem from="1565407382892" duration="1222000" />
+      <workItem from="1565709292657" duration="48000" />
     </task>
     <servers />
   </component>
