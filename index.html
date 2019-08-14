@@ -11,6 +11,17 @@
           integrity="sha384-wxqG4glGB3nlqX0bi23nmgwCSjWIW13BdLUEYC4VIMehfbcro/ATkyDsF/AbIOVe" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bulma.css">
     <link rel="stylesheet" href="css/cosutom.css">
+    <!-- Hotjar Tracking Code for https://su-u.github.io/portfolip/ -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1443976,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
 </head>
 
 <body>
@@ -67,8 +78,48 @@
     </div>
 
 </section>
+
 <section class="container">
-    <h1 class="title has-text-centered">基本情報</h1>
+    <nav class="breadcrumb" aria-label="breadcrumbs">
+        <ul>
+            <li>
+                <a href="#introduction">
+                    <span class="icon is-small">
+                      <i class="fas fa-home" aria-hidden="true"></i>
+                    </span>
+                    <span>基本情報</span>
+                </a>
+            </li>
+            <li>
+                <a href="#skill">
+                    <span class="icon is-small">
+                        <i class="fas fa-edit" aria-hidden="true"></i>
+                    </span>
+                    <span>スキル</span>
+                </a>
+            </li>
+            <li>
+                <a href="#created">
+                    <span class="icon is-small">
+                        <i class="fas fa-file-alt" aria-hidden="true"></i>
+                    </span>
+                    <span>制作物</span>
+                </a>
+            </li>
+            <li>
+                <a href="#link">
+                    <span class="icon is-small">
+                      <i class="fas fa-link" aria-hidden="true"></i>
+                    </span>
+                    <span>リンク</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</section>
+
+<section class="container">
+    <h1 class="title has-text-centered" id="introduction">基本情報</h1>
     <div class="tile is-ancestor">
         <div class="tile is-4 is-vertical is-parent">
             <div class="tile is-child">
@@ -120,7 +171,7 @@
 </section>
 
 <section class="container skill">
-    <h1 class="title has-text-centered">スキル</h1>
+    <h1 class="title has-text-centered" id="skill">スキル</h1>
     <h2 class="title">言語</h2>
 
     <div class="tile is-ancestor">
@@ -136,7 +187,7 @@
                         <p class="has-text-weight-bold is-size-3">C#</p>
                     </div>
                 </div>
-                <progress class="progress is-success" value="75" max="100">75%</progress>
+                <progress class="progress is-success" value="70" max="100">70%</progress>
                 <p>主にUnity、Windowsアプリケーションの開発に利用しています。</p>
                 <p>ASP .NET Coreを利用したWebアプリケーションにも触れたことがあります。</p>
                 <p class="mark">今後：ML .NETの利用。</p>
@@ -156,9 +207,9 @@
                 </div>
                 <progress class="progress is-success" value="60" max="100">60%</progress>
                 <p>Djangoを利用したWebアプリケーションの開発。 WebScraping。</p>
-                <p>波形解析。 画像解析。 簡易的なゲーム開発。</p>
+                <p>波形解析。 画像解析。 簡易的なゲーム開発、TensorFlowを利用した機械学習。</p>
                 <p>Cloud Vision API を利用した、アンケート収集アプリケーションなども開発しました。</p>
-                <p class="mark">今後：テストフレームの利用、機械学習での利用。</p>
+                <p class="mark">今後：テストフレームの利用</p>
             </div>
         </div>
     </div>
@@ -563,7 +614,7 @@
 </section>
 
 <section class="container created">
-    <h1 class="title has-text-centered">創造物</h1>
+    <h1 class="title has-text-centered" id="created">制作物</h1>
     <div class="tile is-ancestor">
         <div class="tile is-parent">
             <div class="tile is-child box">
@@ -644,7 +695,7 @@
 
 <section class="container">
     <div class="has-text-centered">
-        <h1 class="title">リンク</h1>
+        <h1 class="title" id="link">リンク</h1>
         <div class="tile is-ancestor">
             <div class="tile is-parent is-4-desktop">
                 <div class="tile is-child">
@@ -681,7 +732,7 @@
 
     </div>
 </footer>
-
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="js/bulma.js"></script>
 </body>
 
