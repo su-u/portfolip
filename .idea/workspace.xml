@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16d8497e-e928-4747-a6ab-677bcc3fcda7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/icon/App Services.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/Azure DevOps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon/Azure Pipelines.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction.html" beforeDir="false" afterPath="$PROJECT_DIR$/introduction.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skill.html" beforeDir="false" afterPath="$PROJECT_DIR$/skill.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kamikara-conversation-system" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/icon" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -58,15 +59,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Documents\GitHub\portfolip" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Documents\GitHub\portfolip\js" />
       <recent name="D:\Documents\GitHub\portfolip\img\icon" />
+      <recent name="D:\Documents\GitHub\portfolip\js" />
       <recent name="D:\Documents\GitHub\portfolip\img" />
       <recent name="D:\Documents\GitHub\portfolip\css" />
       <recent name="D:\Documents\GitHub\portfolip\scss" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\portfolip\img\icon" />
+      <recent name="D:\Documents\GitHub\portfolip" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -106,7 +108,7 @@
       <workItem from="1565709292657" duration="2938000" />
       <workItem from="1565846595800" duration="843000" />
       <workItem from="1565863964710" duration="12486000" />
-      <workItem from="1566465057164" duration="338000" />
+      <workItem from="1566465057164" duration="4958000" />
     </task>
     <servers />
   </component>
