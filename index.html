@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
     <meta charset="UTF-8">
@@ -11,6 +11,7 @@
           integrity="sha384-wxqG4glGB3nlqX0bi23nmgwCSjWIW13BdLUEYC4VIMehfbcro/ATkyDsF/AbIOVe" crossorigin="anonymous">
     <link rel="stylesheet" href="css/bulma.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/modaal.css">
     <!-- Hotjar Tracking Code for https://su-u.github.io/portfolip/ -->
     <script>
         (function(h,o,t,j,a,r){
@@ -71,7 +72,44 @@
 
 </section>
 
+
 <section class="container">
+<!--    <button id="js-show-popup">Show Popup</button>-->
+
+<!--    <div class="modal" id="js-popup">-->
+<!--        <div class="modal-background" id="js-black-bg"></div>-->
+<!--        <div class="modal-card">-->
+<!--            <header class="modal-card-head">-->
+<!--                <p class="modal-card-title">Modal title</p>-->
+<!--                <button class="delete" aria-label="close" id="js-close-btn"></button>-->
+<!--            </header>-->
+<!--            <section class="modal-card-body">-->
+<!--                &lt;!&ndash; Content ... &ndash;&gt;-->
+<!--            </section>-->
+<!--            <footer class="modal-card-foot">-->
+<!--                <button class="button is-success">Save changes</button>-->
+<!--            </footer>-->
+<!--        </div>-->
+<!--    </div>-->
+
+
+    <a href="#inline" class="inline">Show</a>
+    <div id="inline" style="display:none;">
+        <div class="modal-card">
+            <header class="modal-card-head">
+                <p class="modal-card-title">Modal title</p>
+                <button class="delete" aria-label="close" id="js-close-btn"></button>
+            </header>
+            <section class="modal-card-body">
+                <!-- Content ... -->
+            </section>
+            <footer class="modal-card-foot">
+                <button class="button is-success">Save changes</button>
+            </footer>
+        </div>
+    </div>
+
+
     <nav class="breadcrumb" aria-label="breadcrumbs">
         <ul>
             <li>
@@ -748,7 +786,12 @@
 
     </div>
 </footer>
-<script src="js/jquery-1.9.1.min.js"></script>
+<!--<script src="js/jquery-1.9.1.min.js"></script>-->
+<script
+        src="https://code.jquery.com/jquery-1.12.4.min.js"
+        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+        crossorigin="anonymous"></script>
+<script src="js/modaal.js"></script>
 <script src="js/bulma.js"></script>
 </body>
 

@@ -39,6 +39,10 @@ h1.title {
   margin-top: 0.5rem;
 }
 
+.intro-h {
+  margin: 0;
+}
+
 .center {
   margin: 0 auto;
 }
@@ -142,4 +146,8 @@ h1.title {
   margin-top: 5rem;
 }
 
-/*# sourceMappingURL=custom.css.map*/
+.modal.is-show {
+  display: block;
+}
+
+/*# sourceMappingURL=custom.css.map */
