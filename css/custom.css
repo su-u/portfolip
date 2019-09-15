@@ -150,4 +150,10 @@ h1.title {
   display: block;
 }
 
+.modaal-container {
+  width: auto;
+  background: none;
+  box-shadow: none;
+}
+
 /*# sourceMappingURL=custom.css.map */
