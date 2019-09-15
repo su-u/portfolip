@@ -178,7 +178,20 @@ $point-size: 15px;
 }
 
 .modaal-container{
-    width: auto;
+    width: 100%;
     background: none;
     box-shadow: none;
+}
+
+.modaal-content-container{
+    padding: 0;
+}
+
+.modal-card {
+    margin: 0;
+    width: 100%;
+}
+.modal-card p{
+    word-break: break-all;
+    padding-bottom: 20px;
 }
