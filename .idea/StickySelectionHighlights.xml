@@ -23,6 +23,11 @@
             <PaintGroupHighlightMap />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/css/custom.css">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/css/custom.sass">
           <value>
             <PaintGroupHighlightMap />
@@ -64,6 +69,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/skill.html">
+          <value>
+            <PaintGroupHighlightMap />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/skills.html">
           <value>
             <PaintGroupHighlightMap />
           </value>
