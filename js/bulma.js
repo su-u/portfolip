@@ -17,4 +17,4 @@ $(function(){
         return false;
     });
 });
-$(".inline").modaal();
+$(".modal-event").modaal();
