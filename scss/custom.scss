@@ -169,6 +169,7 @@ $point-size: 15px;
     text-align: right;
 }
 
+
 .footer {
     margin-top: 5rem;
 }
@@ -191,7 +192,11 @@ $point-size: 15px;
     margin: 0;
     width: 100%;
 }
-.modal-card p{
-    word-break: break-all;
-    padding-bottom: 20px;
+.modal-card {
+    p {
+        word-break: break-all;
+    }
+    img.portrait{
+        width: 50%;
+    }
 }
