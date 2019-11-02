@@ -169,5 +169,8 @@ h1.title {
   word-break: break-all;
   padding-bottom: 20px;
 }
+.modal-card img.portrait {
+  width: 50%;
+}
 
 /*# sourceMappingURL=custom.css.map */
